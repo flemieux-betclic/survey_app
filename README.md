@@ -1,3 +1,5 @@
+
+
 # Flutter Quiz App
 
 A small Flutter quiz app built as a learning project. Answer a set of
@@ -6,14 +8,7 @@ see your score on a congratulations screen.
 
 ## Demo
 
-<!-- Add your demo video here.
-     GitHub renders uploaded .mp4/.mov files as an inline player:
-     drag & drop the file into the README editor on github.com, or paste the
-     asset URL it generates below. -->
-
-_📹 Demo video coming soon._
-
-<!-- https://github.com/user-attachments/assets/your-video-id -->
+https://github.com/user-attachments/assets/f6ced203-85af-486b-a7c3-21501426ac4b
 
 ## Features
 
@@ -27,12 +22,6 @@ _📹 Demo video coming soon._
   home after the last question.
 - **Responsive layout** — screens stay centered and adapt (scroll instead of
   overflow) in both portrait and landscape.
-
-## Screens
-
-| Welcome | Question | Results |
-| :-----: | :------: | :-----: |
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
 
 ## Tech stack
 
